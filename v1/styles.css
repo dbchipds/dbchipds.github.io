@@ -1,0 +1,14 @@
+input {
+  font-size:26px;
+}
+body {
+  font-size:20px;
+}
+#qrcode1,
+#qrcode2,
+#qrcode3 {
+  width: 256px;
+  height: 256px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
